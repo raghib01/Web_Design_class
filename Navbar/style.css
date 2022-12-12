@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    background: #f4f4;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul li{
+    float: left;
+    list-style-type: none;
+}
+
+ul li a{
+    padding: 20px 30px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color:black;
+}
+
+ul li a:hover{
+    background: rgba(72, 37, 142, 0.333);
+    color: #f9f9f9;
+}
+
+.dropDownContent{
+     background: #f9f9f9;
+     display: none;
+     position: absolute;
+     box-shadow: 0 10px 15px #f4f4;
+}
+.dropDownContent a{
+    display: block;
+}
+.dropDownContent a:hover{
+    background: rgba(72, 37, 142, 0.333);
+}
+
+.dropDown:hover .dropDownContent{
+    display: block;
+}
+

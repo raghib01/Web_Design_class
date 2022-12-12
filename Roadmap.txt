@@ -1,0 +1,42 @@
+Web Design Roadmap.
+
+Learn CSS Beginer.....
+
+Number1:
+	CSS Selector.(What is css ? )
+Number2: 
+	CSS Properties:
+		{Basic, Combinators, Pseudo}
+		{color, Background-Color, Font}
+		{Padding, border, margin}
+		
+Number3: 
+	Box Model, Display
+Number4:
+	Positioning
+		{Static, Relative, Absolute, Fixed, Sticky}
+
+Learn Advance CSS....
+{
+	Shadows,
+	Gredient, 
+	Transform, 
+	Transition, 
+	Animation, 
+	CSS Veriables, 
+	Media Query, 
+	FLEXBOX & GRID
+}
+Learn CSS Preprocessors: 
+{	
+	SASS,
+	PostCSS,
+	LESS
+	}
+Learn Frameworks: 
+{
+	Bootstrap,
+	TeilWind CSS
+}
+
+
